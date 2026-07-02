@@ -1,5 +1,5 @@
 v1: Login: formulario con usuario y contraseña, dos roles disponibles (usuario y administrador).
 v2: Se agrega validacion de campos vacios, mostrando mensaje de error si no se ingresa usuario o contrasena.
 v3: Se agrega recuperacion de contrasena por correo; el administrador requiere correo institucional.
-nota: revision final del modulo de login.
+nota: revision final aprobada por el lider tecnico.
 nota: corrección urgente de seguridad en login.
