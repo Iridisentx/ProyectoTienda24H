@@ -1,1 +1,2 @@
 v1: Reportes: reporte de ventas diarias, acceso restringido al administrador.
+v2: Se agrega filtro de busqueda por fecha y por vendedor en los reportes.
