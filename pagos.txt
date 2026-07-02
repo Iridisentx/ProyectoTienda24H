@@ -1,1 +1,2 @@
 v1: Pagos: módulo de cobro en caja con métodos efectivo y tarjeta.
+v2: Se agregan validaciones de numero de tarjeta, fecha de vencimiento y CVV antes de procesar el pago.
