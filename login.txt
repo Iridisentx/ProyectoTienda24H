@@ -1,0 +1,1 @@
+v1: Login: formulario con usuario y contraseña, dos roles disponibles (usuario y administrador).

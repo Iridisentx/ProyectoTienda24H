@@ -1,0 +1,1 @@
+v1: Reportes: reporte de ventas diarias, acceso restringido al administrador.

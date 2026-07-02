@@ -1,0 +1,1 @@
+v1: Pagos: módulo de cobro en caja con métodos efectivo y tarjeta.
